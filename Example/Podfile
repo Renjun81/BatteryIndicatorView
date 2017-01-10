@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BatteryIndicatorView_Example' do
+  pod 'BatteryIndicatorView', :path => '../'
+
+  target 'BatteryIndicatorView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
