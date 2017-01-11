@@ -1,9 +1,8 @@
 //
 //  BatteryIndicatorView.m
-//  GaitMonitor
 //
-//  Created by ExpDev on 12/15/16.
-//  Copyright © 2016 usr.cn. All rights reserved.
+//  Created by Renjun81 on 12/15/16.
+//  Copyright © 2016 renjun cui. All rights reserved.
 //
 
 #import "BatteryIndicatorView.h"

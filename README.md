@@ -1,15 +1,18 @@
 # BatteryIndicatorView
 
-[![CI Status](http://img.shields.io/travis/xuebao555/BatteryIndicatorView.svg?style=flat)](https://travis-ci.org/xuebao555/BatteryIndicatorView)
+[![CI Status](http://img.shields.io/travis/renjun81/BatteryIndicatorView.svg?style=flat)](https://travis-ci.org/renjun81/BatteryIndicatorView)
 [![Version](https://img.shields.io/cocoapods/v/BatteryIndicatorView.svg?style=flat)](http://cocoapods.org/pods/BatteryIndicatorView)
 [![License](https://img.shields.io/cocoapods/l/BatteryIndicatorView.svg?style=flat)](http://cocoapods.org/pods/BatteryIndicatorView)
 [![Platform](https://img.shields.io/cocoapods/p/BatteryIndicatorView.svg?style=flat)](http://cocoapods.org/pods/BatteryIndicatorView)
 
+# BatteryIndicatorView 
+classic battery indicator view can be seen on the old cell phones.
+
+![image](http://raw.githubusercontent.com/renjun81/BatteryIndicatorView/screenshot/view.png)
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
-## Requirements
 
 ## Installation
 
@@ -19,10 +22,6 @@ it, simply add the following line to your Podfile:
 ```ruby
 pod "BatteryIndicatorView"
 ```
-
-## Author
-
-xuebao555, xuebao555@gmail.com
 
 ## License
 
