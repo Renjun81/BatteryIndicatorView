@@ -22,7 +22,7 @@ classic battery indicator view class written with obj-c
                        DESC
 
   s.homepage         = 'https://github.com/renjun81/BatteryIndicatorView'
-  s.screenshots      = 'http://raw.githubusercontent.com/renjun81/BatteryIndicatorView/master/screenshot/view.png'
+  s.screenshots      = 'https://raw.githubusercontent.com/renjun81/BatteryIndicatorView/master/screenshot/view.png'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'renjun81' => 'renjun81@yeah.net' }
   s.source           = { :git => 'https://github.com/renjun81/BatteryIndicatorView.git', :tag => s.version.to_s }

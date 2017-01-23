@@ -8,7 +8,7 @@
 # BatteryIndicatorView 
 classic battery indicator view can be seen on the old cell phones.
 
-![image](http://raw.githubusercontent.com/renjun81/BatteryIndicatorView/master/screenshot/view.png)
+![image](https://raw.githubusercontent.com/renjun81/BatteryIndicatorView/master/screenshot/view.png)
 
 ## Example
 
